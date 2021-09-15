@@ -13,6 +13,12 @@ apt install git
 pip install colorama 
 ```
 ```
+git clone https://github.com/darkhunter141/Combo-Gen
+```
+```
+cd Combo-Gen
+```
+```
 python3 Broke.py
 ```
 
@@ -29,7 +35,7 @@ python3 Broke.py
 <br>
 <h3><b>📸Screenshot</b></h3>
 <br>
-<img src="">
+<img src="https://raw.githubusercontent.com/darkhunter141/Combo-Gen/main/coamjajfabfjbaffjafbafjfad.PNG">
 <br>
 
 # 100% Legit
